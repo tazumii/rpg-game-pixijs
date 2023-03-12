@@ -1,0 +1,31 @@
+{
+  "bundles": [
+    {
+      "name": "background",
+      "assets": [
+        {
+          "name": "testTile",
+          "srcs": "/test_tile.png"
+        }
+      ]
+    },
+    {
+      "name": "character",
+      "assets": [
+        {
+          "name": "eggHead",
+          "srcs": "examples/assets/eggHead.png"
+        }
+      ]
+    },
+    {
+      "name": "fonts",
+      "assets": [
+        {
+          "name": "eggHead",
+          "srcs": "examples/assets/eggHead.png"
+        }
+      ]
+    }
+  ]
+}
